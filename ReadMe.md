@@ -15,7 +15,7 @@ Passionate about learning and growing in the world of web development. 🌱 I'm 
 
 ## Get in Touch
 - 📧 Email: [janrusselgorembalem4@gmail.com](mailto:janrusselgorembalem4@gmail.com)
-- 📰 LinkedIn: [LinkedIn](https://twitter.com/your_twitter_handle)
+- 📰 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jan-russel-gorembalem-196a17299/)
 - 🌐 Portfolio: [sel](https://selelel.github.io/portfolio)
 
 Let's connect and collaborate on exciting projects! 🤝
