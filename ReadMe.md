@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jan Russel
+# Hi there! 👋 I'm Sel
 
 Passionate about learning and growing in the world of web development. 🌱 I'm a self-taught front-end web developer with a keen interest in design and a drive to create user-friendly websites. 🚀
 
